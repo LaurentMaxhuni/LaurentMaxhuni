@@ -1,8 +1,8 @@
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
 
-- 🔭 I’m currently working on **Quickit AI Dashboard**
+- 🔭 I’m currently working on **Commune: Voice, Video and Text Messaging App**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.jsm, SQL**
 
 - 🤝 I’m looking for help with **Back-End Development (Node.js, Express.js)**
 
