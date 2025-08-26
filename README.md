@@ -54,16 +54,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&theme=blue-green" alt="langs"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LaurentMaxhuni&theme=blue-green" alt="streaks"/>
-</p>
-
 ---
 
 ## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaurentMaxhuni&theme=onestar&no-bg=true&no-frame=true&column=6" alt="trophies"/>
-</p>
+✨ Hard work, commits, and a little bit of chaos.  
 
 ---
 
@@ -78,3 +72,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="footer"/>
 </p>
+****
