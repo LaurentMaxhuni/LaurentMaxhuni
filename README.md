@@ -27,7 +27,6 @@
 
 - 🧑‍💻 High school student & **aspiring full-stack developer**  
 - 🧠 Winner: **Communal Math Olympiad (2023)** & **Communal Physics Olympiad (2025)**  
-- ⚡ Building **Launchly** (Next.js • Firebase • Stripe)  
 
 ---
 
