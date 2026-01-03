@@ -61,7 +61,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&theme=blue-green">
+  <img height="170" alt="Hackatime Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24746&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nightowl">
   <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&theme=blue-green">
 </p>
 
