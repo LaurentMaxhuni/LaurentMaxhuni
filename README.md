@@ -24,11 +24,6 @@
 ## 👋 About Me
 
 - 🧑‍💻 High school student & aspiring full-stack developer  
-- 🥇 **1st Place — National Physics Competition (2026)**  
-- 🥇 **1st Place — Communal Physics Competition (2026)**
-- 🥉 **3rd Place — National Physics Competition (2025)**  
-- 🥇 **1st Place — Communal Physics Competition (2025)**
-- 🥇 **1st Place — Communal Math Olympiad (2023)**  
 - 🚀 Building AI-powered tools & full-stack systems  
 
 ---
@@ -77,9 +72,11 @@
 
 ## 🏆 Achievements
 
-- 🥇 1st Place — National Physics Competition (2026)  
-- 🥇 1st Place — Communal Physics Olympiad (2026)  
-- 🥇 1st Place — Communal Math Olympiad (2023)  
+- 🥇 **1st Place — National Physics Competition (2026)**  
+- 🥇 **1st Place — Communal Physics Competition (2026)**
+- 🥉 **3rd Place — National Physics Competition (2025)**  
+- 🥇 **1st Place — Communal Physics Competition (2025)**
+- 🥇 **1st Place — Communal Math Olympiad (2023)**   
 - 🚀 Shipped production AI tools  
 - 🧠 Strong foundation in mathematics, physics, and system design  
 - 🔁 Consistent commits & iteration mindset  
