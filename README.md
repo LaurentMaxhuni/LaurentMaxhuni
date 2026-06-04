@@ -57,7 +57,7 @@
 - **[Promptify](https://promptifying.vercel.app)** — AI prompt enhancer (Chrome Extension)  
   → Repo: https://github.com/LaurentMaxhuni/promptify  
 
-- **[devstackedmagazine](https://devstakcedmagazine.tech)** - Brand website.
+- **[devstackedmagazine](https://devstackedmagazine.tech)** - Brand website.
 
 ---
 
