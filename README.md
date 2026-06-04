@@ -35,7 +35,7 @@
   <img alt="CSS3" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="TailwindCSS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img alt="TailwindCSS" height="28" src="https://github.com/devicons/devicon/tree/v2.17.0/icons/tailwindcss/tailwindcss-original.svg/"/>
   <img alt="Node.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Express" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img alt="MySQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -54,10 +54,10 @@
 - **[Quickit](https://quickit.netlify.app)** — Clean AI dashboard  
   → Repo: https://github.com/LaurentMaxhuni/ai-dashboard  
 
-- **Promptify** — AI prompt enhancer (Chrome Extension)  
+- **[Promptify](https://promptifying.vercel.app)** — AI prompt enhancer (Chrome Extension)  
   → Repo: https://github.com/LaurentMaxhuni/promptify  
 
-- **Launchly** — Launch page generator (Next.js + Firebase + Stripe)  
+- **[devstackedmagazine](https://devstakcedmagazine.tech)** - Brand website.
 
 ---
 
