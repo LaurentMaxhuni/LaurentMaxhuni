@@ -50,7 +50,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,cs,java&perline=8" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&perline=8" alt="Programming languages"/>
 </p>
 
 ### Frontend
