@@ -1,225 +1,233 @@
 <!--
-  GitHub Profile README — Laurent Maxhuni
-  Theme: Blue / Cyan • Clean • Reliable
+GitHub Profile README
+Laurent Maxhuni
+Upgraded: animated banner, typing header, live stats, themed badges
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Laurent%20Maxhuni&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Physics%20Competitor&descAlignY=58&descAlign=50&descSize=20" alt="Header"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Laurent%20Maxhuni&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Physics%20Competitor&descAlignY=58&descSize=18" alt="Header banner" width="100%">
+
+<a href="https://laurentmaxhuni.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Building+AI+products+that+ship;Full-stack+%2B+LLM+APIs+%2B+real-time+systems;Physics+competitor+%7C+1st+Place+National+2026;Currently+building%3A+Vuent.ai" alt="Typing SVG">
+</a>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white)](https://laurentmaxhuni.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-maxhuni-56a394304/)
+[![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurentMaxhuni?tab=repositories)
+
+<img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/LaurentMaxhuni?label=Followers&color=BB9AF7&style=for-the-badge&logo=github" alt="Followers">
+<img src="https://img.shields.io/github/stars/LaurentMaxhuni?affiliations=OWNER&label=Stars&color=E0AF68&style=for-the-badge&logo=github" alt="Stars">
+
+</div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Developing+full-stack+applications;Exploring+physics%2C+systems+and+software;Turning+ideas+into+real+projects"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://laurentmaxhuni.netlify.app">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/laurent-maxhuni-56a394304/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/LaurentMaxhuni">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&label=Profile%20Views&color=00c6ff&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/LaurentMaxhuni?label=Followers&style=flat-square&color=0072ff" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/LaurentMaxhuni?affiliations=OWNER&style=flat-square&color=00c6ff&label=Total%20Stars" alt="GitHub stars"/>
+  <a href="#-selected-projects">Projects</a> ·
+  <a href="#-stack">Stack</a> ·
+  <a href="#-achievements">Achievements</a> ·
+  <a href="#-github-stats">Stats</a>
 </p>
 
 ---
 
-## 👋 About Me
+## `$ whoami`
 
-* 🧑‍💻 High school student and aspiring full-stack developer
-* 🚀 Building AI-powered tools and full-stack systems
-* ⚙️ Interested in software architecture, physics and computer engineering
-* 📚 Constantly learning through projects, competitions and experimentation
+```ts
+const laurent = {
+  role: "Full-Stack Developer",
+  builds: ["AI products", "web applications", "real-time systems"],
+  interests: ["software architecture", "physics", "computer engineering"],
+  principle: "Build useful things. Understand how they work.",
+};
+```
+
+I build practical software across full-stack development, artificial intelligence, and developer tooling.
+
+My work includes multi-provider AI applications, browser extensions, real-time platforms, and production-facing web products. I focus on clear architecture, strong user experience, and AI features that solve real problems.
 
 ---
 
-## 🧰 Tech Stack
+## `$` selected-projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Vuent.ai
+AI-powered platform designed around a modern and practical AI experience.
+
+![AI Integration](https://img.shields.io/badge/AI%20Integration-7AA2F7?style=flat-square)
+![Product Design](https://img.shields.io/badge/Product%20Design-BB9AF7?style=flat-square)
+![Full--Stack](https://img.shields.io/badge/Full--Stack-9ECE6A?style=flat-square)
+
+**[↗ Live](https://vuentai.netlify.app)** · **[Source](https://github.com/LaurentMaxhuni/Vuent.ai)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Free.ai
+Multi-provider AI chat app — text & image generation, cloud providers, and local Ollama models.
+
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-7AA2F7?style=flat-square)
+![Provider Routing](https://img.shields.io/badge/Provider%20Routing-BB9AF7?style=flat-square)
+![Local Inference](https://img.shields.io/badge/Local%20Inference-9ECE6A?style=flat-square)
+
+**[↗ Live](https://free-ai-lm.vercel.app)** · **[Source](https://github.com/LaurentMaxhuni/free-ai)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ FScan
+Lightweight tool focused on fast and practical scanning workflows.
+
+![Utility Engineering](https://img.shields.io/badge/Utility%20Engineering-7AA2F7?style=flat-square)
+![Efficiency](https://img.shields.io/badge/Efficiency-BB9AF7?style=flat-square)
+
+**[Source](https://github.com/LaurentMaxhuni/fscan)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Promptify
+Chrome extension that restructures rough instructions into clearer AI prompts.
+
+![Browser Extensions](https://img.shields.io/badge/Browser%20Extensions-7AA2F7?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BB9AF7?style=flat-square)
+
+**[↗ Live](https://promptifying.vercel.app)** · **[Source](https://github.com/LaurentMaxhuni/promptify)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📰 DevStackedMagazine
+Technology platform focused on software development, artificial intelligence, and digital products.
+
+**[↗ Visit website](https://devstackedmagazine.tech)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$` stack
 
 ### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&perline=8" alt="Programming languages"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="Languages">
+</div>
 
 ### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Frontend technologies">
+</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&perline=5" alt="Frontend technologies"/>
-</p>
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
+</div>
 
-### Backend and APIs
+### Backend and Data
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mysql,sqlite,redis&theme=dark" alt="Backend and data technologies">
+</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase&perline=4" alt="Backend technologies"/>
-</p>
+![REST APIs](https://img.shields.io/badge/REST%20APIs-7AA2F7?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-0072ff?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
-</p>
-
-### Databases and Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis&perline=3" alt="Databases"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square" alt="TypeORM"/>
-</p>
+</div>
 
 ### AI and Automation
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/LLM_APIs-0072ff?style=flat-square" alt="LLM APIs"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-7AA2F7?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### Tools and DevOps
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&perline=8" alt="Development tools"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Vuent.ai](https://vuentai.netlify.app)
-
-An AI-powered platform built to deliver a modern and practical AI experience.
-
-[![Live](https://img.shields.io/badge/Live_Project-00c6ff?style=flat-square\&logo=netlify\&logoColor=white)](https://vuentai.netlify.app)
-[![Repository](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LaurentMaxhuni/Vuent.ai)
-
-### 🧠 [Free.ai](https://free-ai-lm.vercel.app)
-
-A free multi-provider AI chat application supporting text generation, image generation, local Ollama models and cloud AI providers.
-
-[![Live](https://img.shields.io/badge/Live_Project-0072ff?style=flat-square\&logo=vercel\&logoColor=white)](https://free-ai-lm.vercel.app)
-[![Repository](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LaurentMaxhuni/free-ai)
-
-### 🔍 [FScan](https://github.com/LaurentMaxhuni/fscan)
-
-A lightweight project focused on fast and practical scanning workflows.
-
-[![Repository](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LaurentMaxhuni/fscan)
-
-### ✨ [Promptify](https://promptifying.vercel.app)
-
-A Chrome extension that improves and restructures AI prompts.
-
-[![Live](https://img.shields.io/badge/Live_Project-0072ff?style=flat-square\&logo=vercel\&logoColor=white)](https://promptifying.vercel.app)
-[![Repository](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LaurentMaxhuni/promptify)
-
-### 📰 [DevStackedMagazine](https://devstackedmagazine.tech)
-
-A technology brand and platform focused on development, AI and digital products.
-
-[![Website](https://img.shields.io/badge/Visit_Website-00c6ff?style=flat-square\&logo=googlechrome\&logoColor=white)](https://devstackedmagazine.tech)
+### Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark" alt="Tools">
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## `$` achievements
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&theme=transparent&title_color=00c6ff&text_color=c9d1d9&icon_color=0072ff&border_color=0072ff&hide_border=false&rank_icon=github&cache_seconds=86400"
-    alt="GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&theme=transparent&title_color=00c6ff&text_color=c9d1d9&border_color=0072ff&hide_border=false&langs_count=8&cache_seconds=86400"
-    alt="Most used languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=LaurentMaxhuni&theme=transparent&hide_border=false&border=0072FF&stroke=00C6FF&ring=0072FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub contribution streak"
-  />
-</p>
+| Year | Result | Competition |
+|:---:|:---:|:---|
+| 🥇 2026 | **1st Place** | National Physics Competition |
+| 🥇 2026 | **1st Place** | Communal Physics Competition |
+| 🥉 2025 | **3rd Place** | National Physics Competition |
+| 🥇 2025 | **1st Place** | Communal Physics Competition |
+| 🥇 2023 | **1st Place** | Communal Mathematics Olympiad |
+
+</div>
+
+```text
+SHIP   Production AI tools and full-stack applications
+CORE   Mathematics, physics, and software architecture
+MODE   Continuous experimentation and iteration
+```
 
 ---
 
-## 📈 Contribution Activity
+## `$` github-stats
 
-<p align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LaurentMaxhuni&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
 
-## 🏆 Achievements
+<br>
 
-* 🥇 **1st Place — National Physics Competition (2026)**
-* 🥇 **1st Place — Communal Physics Competition (2026)**
-* 🥉 **3rd Place — National Physics Competition (2025)**
-* 🥇 **1st Place — Communal Physics Competition (2025)**
-* 🥇 **1st Place — Communal Math Olympiad (2023)**
-* 🚀 Shipped production AI tools
-* 🧠 Strong foundation in mathematics, physics and system design
-* 🔁 Consistent project development and iteration
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LaurentMaxhuni&theme=tokyonight&hide_border=true" alt="GitHub streak stats">
 
----
+<br>
 
-## 🏅 GitHub Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaurentMaxhuni&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%">
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=LaurentMaxhuni&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4"
-    alt="GitHub trophies"
-  />
-</p>
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LaurentMaxhuni&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies">
+
+</div>
+
+<!--
+Optional: live "snake" contribution animation.
+Add the workflow file at .github/workflows/snake.yml (included alongside this README)
+then reference the generated SVG below once the action has run once:
+
+<img src="https://raw.githubusercontent.com/LaurentMaxhuni/LaurentMaxhuni/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+-->
 
 ---
 
-## 🤝 Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://laurentmaxhuni.netlify.app">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/laurent-maxhuni-56a394304/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1a1b27&height=150&section=footer" alt="Footer banner" width="100%">
 
-<p align="center">
-  <strong>Building, learning and improving one project at a time.</strong>
-</p>
+**BUILD SOMETHING USEFUL · STUDY SOMETHING DIFFICULT · MAKE THE NEXT VERSION BETTER**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="Footer"/>
-</p>
+[Explore my work](https://laurentmaxhuni.netlify.app) · [Connect with me](https://www.linkedin.com/in/laurent-maxhuni-56a394304/)
+
+</div>
