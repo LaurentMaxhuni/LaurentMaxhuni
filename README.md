@@ -130,12 +130,18 @@ An art gallery experience where users can explore and purchase digital artwork.
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaurentMaxhuni&amp;theme=github" alt="GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaurentMaxhuni&amp;theme=github" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=LaurentMaxhuni&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaurentMaxhuni&amp;theme=github" alt="GitHub contribution activity">
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=LaurentMaxhuni&amp;theme=default" alt="GitHub contribution streak">
+  </a>
 </p>
 
 ---
