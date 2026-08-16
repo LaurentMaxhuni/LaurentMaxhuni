@@ -1,173 +1,213 @@
-<!--
-  GitHub Profile README for LaurentMaxhuni
-  Built from the public GitHub profile and portfolio.
-  GitHub-safe Markdown with minimal HTML.
--->
-
 <div align="center">
 
-<pre>
-██╗     ███╗   ███╗
-██║     ████╗ ████║
-██║     ██╔████╔██║
-██║     ██║╚██╔╝██║
-███████╗██║ ╚═╝ ██║
-╚══════╝╚═╝     ╚═╝
-</pre>
+<!-- HERO -->
 
-# Laurent Maxhuni
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,35:07140e,70:16072b,100:050505&text=LAURENT%20MAXHUNI&fontColor=7CFFB2&fontSize=42&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20AI%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-### Full-Stack Developer · AI Builder · Physics Competitor
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%3E+building+things+that+shouldn't+exist_;%3E+full-stack+%2F+AI+%2F+systems_;%3E+turning+ideas+into+software_;%3E+ship.+break.+learn.+repeat._" alt="Typing SVG" />
+</a>
 
-I build user-focused web applications, AI-powered tools, and practical developer products.
+<br/>
 
-[Portfolio](https://laurentmaxhuni.netlify.app) ·
-[LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/) ·
-[GitHub](https://github.com/LaurentMaxhuni)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&label=Profile%20views&style=flat-square" alt="Profile views">
-<img src="https://img.shields.io/github/followers/LaurentMaxhuni?label=Followers&style=flat-square" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/LaurentMaxhuni?affiliations=OWNER&label=Stars&style=flat-square" alt="GitHub stars">
+<img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-## About
+```console
+laurent@github:~$ whoami
 
-I am a full-stack web developer focused on building clean, useful, and accessible digital products.
-
-My work spans front-end interfaces, backend APIs, AI integrations, browser extensions, dashboards, and interactive web experiences. I enjoy turning ideas into working software and improving them through constant experimentation.
-
-```ts
-const profile = {
-  focus: ["Full-stack development", "AI products", "Developer tools"],
-  values: ["Useful software", "Clear architecture", "Strong user experience"],
-  interests: ["Web engineering", "Artificial intelligence", "Physics"],
-};
+name      Laurent Maxhuni
+role      Full-Stack Developer / AI Builder
+focus     Web • AI • Backend • Developer Tools
+status    Building...
 ```
 
----
+## `$ cat ./about.md`
 
-## Selected Work
+```yaml
+developer:
+  stack:
+    - TypeScript
+    - JavaScript
+    - Python
+    - React
+    - Next.js
+    - Node.js
 
-### [Vuent.ai](https://vuentai.netlify.app)
+  interests:
+    - artificial_intelligence
+    - developer_tools
+    - backend_systems
+    - local_first_software
+    - open_source
 
-An AI application featuring specialized assistants for tasks such as coding and design.
-
-`AI` `Web Application` `Product Development`
-
-### [AI Dashboard](https://github.com/LaurentMaxhuni/ai-dashboard)
-
-A responsive React dashboard with analytics, interactive visualizations, customizable widgets, authentication, and AI-powered insights.
-
-`React` `JavaScript` `Analytics` `Dashboard`
-
-### [Promptify](https://github.com/LaurentMaxhuni/promptify)
-
-A Chrome extension designed to improve and restructure prompts for AI tools.
-
-`TypeScript` `Chrome Extension` `AI` `Productivity`
-
-### [Weatherio](https://github.com/LaurentMaxhuni/weatherio)
-
-A weather application that provides current and forecast information for cities.
-
-`JavaScript` `HTML` `CSS` `Weather API`
-
-### [Xinder](https://github.com/LaurentMaxhuni/xinder)
-
-An art gallery experience where users can explore and purchase digital artwork.
-
-`Web Development` `UI Design` `Interactive Experience`
-
-<sub>More projects are available on my <a href="https://github.com/LaurentMaxhuni?tab=repositories">GitHub repositories page</a> and <a href="https://laurentmaxhuni.netlify.app">portfolio</a>.</sub>
-
----
-
-## Technology
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=light" alt="HTML, CSS, JavaScript, TypeScript and Python">
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap&theme=light" alt="React, Vue, Angular, Tailwind CSS and Bootstrap">
-</p>
-
-### Backend and Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=light" alt="Node.js, Express, MySQL and Firebase">
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&theme=light" alt="Git, GitHub, VS Code, Figma, Postman, Vercel and Netlify">
-</p>
-
----
-
-## Achievements
-
-```text
-2026  1st Place  National Physics Competition
-2026  1st Place  Communal Physics Competition
-2025  3rd Place  National Physics Competition
-2025  1st Place  Communal Physics Competition
-2023  1st Place  Communal Mathematics Olympiad
+  current_mission: "Build useful software and ship it."
 ```
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaurentMaxhuni&amp;theme=github_dark" alt="GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaurentMaxhuni&amp;theme=github_dark" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaurentMaxhuni&amp;theme=github_dark" alt="GitHub contribution activity">
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=LaurentMaxhuni&amp;theme=github-dark-blue" alt="GitHub contribution streak">
-  </a>
-</p>
-
----
-
-## Current Direction
-
-```text
-BUILD   useful full-stack products
-EXPLORE AI-powered experiences and developer tooling
-LEARN   through projects, competitions, and experimentation
-IMPROVE every release through iteration
-```
-
----
+<br/>
 
 <div align="center">
 
-<pre>
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Build things that are worth using.         │
-│                                              │
-└──────────────────────────────────────────────┘
-</pre>
+## `// TECH STACK`
 
-[Explore my work](https://laurentmaxhuni.netlify.app) ·
-[Connect on LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/)
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,html,css,tailwind,mysql,postgres,git,github,docker,figma&perline=8&theme=dark" />
+
+</div>
+
+<br/>
+
+## `// SELECTED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Vuent.ai
+
+AI-focused web application built around modern full-stack tooling.
+
+`AI` `React` `JavaScript`
+
+<a href="https://github.com/LaurentMaxhuni/Vuent.ai">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-39FF88?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Commune
+
+Real-time full-stack chat application with authentication, messaging and WebSockets.
+
+`TypeScript` `Express` `MySQL` `Socket.IO`
+
+<a href="https://github.com/LaurentMaxhuni/commune">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-B026FF?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### fscan
+
+Developer-focused project built around fast, practical tooling.
+
+<a href="https://github.com/LaurentMaxhuni/fscan">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF2BD6?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### More loading...
+
+```text
+[████████████████░░░░] 80%
+
+new experiments
+new tools
+new questionable ideas
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## `// GITHUB TELEMETRY`
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&hide_border=true&bg_color=07070c&title_color=39FF88&icon_color=FF2BD6&text_color=dadada&ring_color=8B5CF6" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&hide_border=true&bg_color=07070c&title_color=B026FF&text_color=dadada" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=LaurentMaxhuni&hide_border=true&background=07070C&ring=39FF88&fire=FF2BD6&currStreakLabel=B026FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+<br/>
+
+## `// CURRENT PROCESS`
+
+```bash
+$ git status
+
+On branch main
+Your branch is ahead of 'origin/main'.
+
+Changes not staged for commit:
+
+  modified:   skills/full-stack
+  modified:   skills/backend
+  modified:   skills/ai
+  modified:   skills/system-design
+
+Untracked files:
+
+  new-project-idea-47/
+  probably-another-side-project/
+
+$ █
+```
+
+<br/>
+
+<div align="center">
+
+## `// CONTRIBUTION SIGNAL`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaurentMaxhuni&bg_color=07070c&color=39ff88&line=b026ff&point=ff2bd6&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## `// PHILOSOPHY`
+
+```txt
+> ideas are cheap.
+> execution is measurable.
+> shipping wins.
+```
+
+<br/>
+
+<div align="center">
+
+### `ESTABLISH_CONNECTION()`
+
+<a href="https://github.com/LaurentMaxhuni">
+  <img src="https://img.shields.io/badge/GITHUB-07070C?style=for-the-badge&logo=github&logoColor=39FF88"/>
+</a>
+
+<a href="https://www.linkedin.com/in/laurent-maxhuni-56a394304/">
+  <img src="https://img.shields.io/badge/LINKEDIN-07070C?style=for-the-badge&logo=linkedin&logoColor=B026FF"/>
+</a>
+
+<a href="https://laurentmaxhuni.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-07070C?style=for-the-badge&logo=vercel&logoColor=FF2BD6"/>
+</a>
+
+<br/><br/>
+
+```text
+┌──────────────────────────────────────────┐
+│  CONNECTION ESTABLISHED                 │
+│  STATUS: ONLINE                         │
+│  READY TO BUILD                         │
+└──────────────────────────────────────────┘
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,45:16072b,75:07140e,100:050505"/>
 
 </div>
