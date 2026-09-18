@@ -104,13 +104,13 @@ An art gallery experience where users can explore and purchase digital artwork.
 ### Backend and Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,supabase,neondb,postgresql&theme=light" alt="Node.js, Express, MySQL, PostgreSQL, NeonDB, Firebase, Supabase">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,supabase,nestjs,postgresql&theme=light" alt="Node.js, Express, MySQL, PostgreSQL, NeonDB, Firebase, Supabase">
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&theme=light" alt="Git, GitHub, VS Code, Figma, Postman, Vercel and Netlify">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,linux,kali&theme=light" alt="Git, GitHub, VS Code, Figma, Postman, Vercel and Netlify">
 </p>
 
 ---
