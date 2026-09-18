@@ -92,19 +92,19 @@ An art gallery experience where users can explore and purchase digital artwork.
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=light" alt="HTML, CSS, JavaScript, TypeScript and Python">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust&theme=light" alt="HTML, CSS, JavaScript, TypeScript, Python and Rust">
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap&theme=light" alt="React, Vue, Angular, Tailwind CSS and Bootstrap">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap,nextjs&theme=light" alt="React, Vue, Angular, Next.js, Tailwind CSS and Bootstrap">
 </p>
 
 ### Backend and Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=light" alt="Node.js, Express, MySQL and Firebase">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,supabase,neondb,postgresql&theme=light" alt="Node.js, Express, MySQL, PostgreSQL, NeonDB, Firebase, Supabase">
 </p>
 
 ### Tools
