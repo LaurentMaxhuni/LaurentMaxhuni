@@ -23,7 +23,7 @@ I build user-focused web applications, AI-powered tools, and practical developer
 
 [Portfolio](https://laurentmaxhuni.netlify.app) ·
 [LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/) ·
-[GitHub](https://github.com/LaurentMaxhuni)
+[GitHub](https://github.com/LaurentMaxhuni)<br>
 [![committers.top badge](https://user-badge.committers.top/kosovo/LaurentMaxhuni.svg)](https://user-badge.committers.top/kosovo/LaurentMaxhuni)
 
 <br>
