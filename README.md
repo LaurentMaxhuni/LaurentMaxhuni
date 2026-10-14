@@ -1,175 +1,76 @@
-<!--
-  GitHub Profile README for LaurentMaxhuni
-  Built from the public GitHub profile and portfolio.
-  GitHub-safe Markdown with minimal HTML.
--->
-
 <div align="center">
-
-<pre>
-██╗     ███╗   ███╗
-██║     ████╗ ████║
-██║     ██╔████╔██║
-██║     ██║╚██╔╝██║
-███████╗██║ ╚═╝ ██║
-╚══════╝╚═╝     ╚═╝
-</pre>
 
 # Laurent Maxhuni
 
-### Full-Stack Developer · AI Builder · Physics Competitor
+### full-stack developer · systems tinkerer · builder
 
-I build user-focused web applications, AI-powered tools, and practical developer products.
+I build fast, polished web products, experiment with local AI, and occasionally disappear into Rust projects that were supposed to be “small.”
 
-[Portfolio](https://laurentmaxhuni.netlify.app) ·
-[LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/) ·
-[GitHub](https://github.com/LaurentMaxhuni)<br>
-[![committers.top badge](https://user-badge.committers.top/kosovo/LaurentMaxhuni.svg)](https://user-badge.committers.top/kosovo/LaurentMaxhuni)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&label=Profile%20views&style=flat-square" alt="Profile views">
-<img src="https://img.shields.io/github/followers/LaurentMaxhuni?label=Followers&style=flat-square" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/LaurentMaxhuni?affiliations=OWNER&label=Stars&style=flat-square" alt="GitHub stars">
-
+[![GitHub followers](https://img.shields.io/github/followers/LaurentMaxhuni?style=flat&label=followers&color=89b4fa&labelColor=181825)](https://github.com/LaurentMaxhuni?tab=followers)
+[![committers.top](https://user-badge.committers.top/kosovo/LaurentMaxhuni.svg)](https://user-badge.committers.top/kosovo/LaurentMaxhuni)
 
 </div>
 
 ---
 
-## About
+### what I'm building
 
-I am a full-stack web developer focused on building clean, useful, and accessible digital products.
+- **devstackedmagazine** — web development agency, experiments and creative engineering
+- **Ubi** — my own programming language for desktop, mobile, web and CLI
+- **Kitlane** - sync your programs between different operating systems
+- experimenting with **local coding models**, inference, RAG and agentic tooling
+- building with **React, Next.js, Rust, TypeScript and whatever fits the problem**
+- occasionally making motion-heavy interfaces that probably have too many keyframes
 
-My work spans front-end interfaces, backend APIs, AI integrations, browser extensions, dashboards, and interactive web experiences. I enjoy turning ideas into working software and improving them through constant experimentation.
+### stack
+
+```txt
+frontend    React · Next.js · TypeScript · Tailwind CSS · GSAP
+backend     Node.js · Express · NestJS · Rust · Bun · Elysia
+data        PostgreSQL · SQLite · Prisma · Supabase · Neon · Convex
+realtime    Socket.IO · tRPC
+infra       Docker · Vercel · GitHub Actions
+design      Figma · motion design
+ai          Ollama · llama.cpp · Unsloth · local LLMs · embeddings · RAG
+```
+
+### lately
 
 ```ts
-const profile = {
-  focus: ["Full-stack development", "AI products", "Developer tools"],
-  values: ["Useful software", "Clear architecture", "Strong user experience"],
-  interests: ["Web engineering", "Artificial intelligence", "Physics"],
+const laurent = {
+  building: ["web apps", "developer tools", "AI experiments"],
+  learning: ["Rust", "systems programming", "model inference"],
+  interestedIn: ["local AI", "physics", "developer tooling", "motion"],
+  editor: "VS Code",
+  caffeineDependency: true,
 };
 ```
 
----
+### github
 
-## Selected Work
+<div align="center">
 
-### [Vuent.ai](https://vuentai.netlify.app)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LaurentMaxhuni&show_icons=true&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" />
 
-An AI application featuring specialized assistants for tasks such as coding and design.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMaxhuni&layout=compact&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=cdd6f4" />
 
-`AI` `Web Application` `Product Development`
+</div>
 
-### [AI Dashboard](https://github.com/LaurentMaxhuni/ai-dashboard)
+### tools I actually use
 
-A responsive React dashboard with analytics, interactive visualizations, customizable widgets, authentication, and AI-powered insights.
-
-`React` `JavaScript` `Analytics` `Dashboard`
-
-### [Promptify](https://github.com/LaurentMaxhuni/promptify)
-
-A Chrome extension designed to improve and restructure prompts for AI tools.
-
-`TypeScript` `Chrome Extension` `AI` `Productivity`
-
-### [Weatherio](https://github.com/LaurentMaxhuni/weatherio)
-
-A weather application that provides current and forecast information for cities.
-
-`JavaScript` `HTML` `CSS` `Weather API`
-
-### [Xinder](https://github.com/LaurentMaxhuni/xinder)
-
-An art gallery experience where users can explore and purchase digital artwork.
-
-`Web Development` `UI Design` `Interactive Experience`
-
-<sub>More projects are available on my <a href="https://github.com/LaurentMaxhuni?tab=repositories">GitHub repositories page</a> and <a href="https://laurentmaxhuni.netlify.app">portfolio</a>.</sub>
-
----
-
-## Technology
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust&theme=light" alt="HTML, CSS, JavaScript, TypeScript, Python and Rust">
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,rust,postgres,supabase,docker,git,github,figma,vscode&perline=13" />
 </p>
 
-### Frontend
+### find me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap,nextjs&theme=light" alt="React, Vue, Angular, Next.js, Tailwind CSS and Bootstrap">
-</p>
-
-### Backend and Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,supabase,nestjs,postgresql&theme=light" alt="Node.js, Express, MySQL, PostgreSQL, NeonDB, Firebase, Supabase">
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,linux,kali&theme=light" alt="Git, GitHub, VS Code, Figma, Postman, Vercel and Netlify">
-</p>
-
----
-
-## Achievements
-
-```text
-2026  1st Place  National Physics Competition
-2026  1st Place  Communal Physics Competition
-2025  3rd Place  National Physics Competition
-2025  1st Place  Communal Physics Competition
-2023  1st Place  Communal Mathematics Olympiad
-```
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaurentMaxhuni&amp;theme=github_dark" alt="GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaurentMaxhuni&amp;theme=github_dark" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaurentMaxhuni&amp;theme=github_dark" alt="GitHub contribution activity">
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=LaurentMaxhuni&amp;theme=github-dark-blue" alt="GitHub contribution streak">
-  </a>
-</p>
-
----
-
-## Current Direction
-
-```text
-BUILD   useful full-stack products
-EXPLORE AI-powered experiences and developer tooling
-LEARN   through projects, competitions, and experimentation
-IMPROVE every release through iteration
-```
+[website](https://laurentmaxhuni.runs-on.dev) ·
+[github](https://github.com/LaurentMaxhuni)
 
 ---
 
 <div align="center">
 
-<pre>
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Build things that are worth using.         │
-│                                              │
-└──────────────────────────────────────────────┘
-</pre>
-
-[Explore my work](https://laurentmaxhuni.netlify.app) ·
-[Connect on LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/)
+<sub>build things. break things. understand why they broke.</sub>
 
 </div>
