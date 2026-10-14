@@ -24,13 +24,13 @@ I build user-focused web applications, AI-powered tools, and practical developer
 [Portfolio](https://laurentmaxhuni.netlify.app) ·
 [LinkedIn](https://www.linkedin.com/in/laurent-maxhuni-56a394304/) ·
 [GitHub](https://github.com/LaurentMaxhuni)
-[![committers.top badge](https://user-badge.committers.top/kosovo/USERNAME.svg)](https://user-badge.committers.top/kosovo/LaurentMaxhuni)
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=LaurentMaxhuni&label=Profile%20views&style=flat-square" alt="Profile views">
 <img src="https://img.shields.io/github/followers/LaurentMaxhuni?label=Followers&style=flat-square" alt="GitHub followers">
 <img src="https://img.shields.io/github/stars/LaurentMaxhuni?affiliations=OWNER&label=Stars&style=flat-square" alt="GitHub stars">
+[![committers.top badge](https://user-badge.committers.top/kosovo/LaurentMaxhuni.svg)](https://user-badge.committers.top/kosovo/LaurentMaxhuni)
 
 </div>
 
